@@ -9,8 +9,6 @@ You can subscribe to the AWS Data Exchange product utilizing the automation feat
 
 ## Main Overview
 
-This release contains information on 2020 Election Forecast for the United States' next presidental term. The included files contain information on economic indicators, final national toplines, final state-level toplines, forecasted chances of every possible Electoral College outcome, and contains the forecasted chances of various possible election outcome scenarios.
-
 This release contains information on the Covid-19 pandemic and how Americans are feeling about the country's response to it. The included files contain data on whether or not Americans approve of President Trump's handling of Covid-19 and how Americans feel about the economic and infection impact. Additionally, there is data on the averages of these polls and FiveThirtyEight's own adjustements based on their algorithim.
 
 The included data is provided by FiveThirtyEight, which contains data on various relevant topics such as politics, sports, science, polls and more. If you are interested in learning more or want to explore other datasets created and maintained by FiveThirtyEight, visit the [FiveThirtyEight homepage](https://fivethirtyeight.com/).  
