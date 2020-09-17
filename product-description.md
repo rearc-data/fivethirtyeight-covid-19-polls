@@ -5,7 +5,7 @@ The source code outlining how this product gathers, transforms, revises and publ
 
 ## Main Overview
 
-This release contains information on the Covid-19 pandemic and how Americans are feeling about the country's response to it. The included files contain data on whether or not Americans approve of President Trump's handling of Covid-19 and how Americans feel about the economic and infection impact. Additionally, there is data on the averages of these polls and FiveThirtyEight's own adjustements based on their algorithim.
+This release contains information on the Covid-19 pandemic and how Americans are feeling about the country's response to it. The included files contain data on whether or not Americans approve of President Trump's handling of Covid-19 and how Americans feel about the economic and infection impact. Additionally, there is data on the averages of these polls and FiveThirtyEight's own adjustments based on their algorithm.
 
 The included data is provided by FiveThirtyEight, which contains data on various relevant topics such as politics, sports, science, polls and more. If you are interested in learning more or want to explore other datasets created and maintained by FiveThirtyEight, visit the [FiveThirtyEight homepage](https://fivethirtyeight.com/).  
 
