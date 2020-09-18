@@ -5,7 +5,7 @@
 How Americans View The Coronavirus Crisis | FiveThirtyEight
 =========================
 
-You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting []().
+You can subscribe to the AWS Data Exchange product utilizing the automation featured in this repository by visiting [https://aws.amazon.com/marketplace/pp/prodview-cab2m2vmemeb4](https://aws.amazon.com/marketplace/pp/prodview-cab2m2vmemeb4).
 
 ## Main Overview
 
